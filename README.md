@@ -1,126 +1,74 @@
-# OhmPro
+⚡ OhmPro
 
-**Electrician’s Toolkit & Electrical Calculator App**
+Electrician’s Toolkit & Electrical Calculator App
 
-OhmPro is the ultimate tool for electricians, engineering students, and DIY enthusiasts. It provides quick and accurate calculators, reference formulas, and utilities to solve electrical equations efficiently. Track voltage, current, resistance, power, and more with an intuitive interface designed for speed and accuracy. Whether you’re on-site or studying, OhmPro makes electrical calculations easy.
+OhmPro is the ultimate tool for electricians, engineers, and DIY enthusiasts. It provides quick and accurate electrical calculators, formula references, and conversion tools — all in a clean, professional interface. Whether you’re on-site or studying, OhmPro makes electrical calculations effortless and precise.
 
----
+⸻
 
-## 🚀 Features
+🚀 Features
 
-- **Electrical Calculators**
-  - Ohm’s Law: Voltage, Current, Resistance, Power
-  - Series & Parallel Circuit Calculations
-  - Voltage Drop & Efficiency Calculators
-  - Power and Energy Calculations
+⚙️ Electrical Calculators
+	•	Ohm’s Law: Voltage, Current, Resistance, Power
+	•	Series & Parallel Circuits: Calculate total resistance or current flow
+	•	Voltage Drop & Efficiency: Measure performance and losses
+	•	Power & Energy: Easily convert watts, kilowatts, and energy usage
 
-- **Formula Reference**
-  - Common electrical formulas for quick access
-  - Handy lookup for fieldwork or academic purposes
+📘 Formula Reference
+	•	Handy lookup for common electrical equations
+	•	Perfect for quick access during fieldwork or study
 
-- **Units & Conversions**
-  - Supports volts, amps, ohms, watts, kilowatts, and more
-  - Automatic unit conversion for seamless calculations
+🔁 Units & Conversions
+	•	Supports volts (V), amps (A), ohms (Ω), watts (W), and more
+	•	Automatic unit conversion for seamless results
 
-- **Professional Interface**
-  - Clean, user-friendly design
-  - Optimized for mobile screens
-  - Dark and light mode support
+🧮 Save & Track Calculations
+	•	Save important results locally for future reference
+	•	Review your calculation history anytime
 
-- **Save & Track Calculations**
-  - Store your important calculations locally
-  - Track historical results for quick reference
+💡 Professional Design
+	•	Clean and intuitive layout
+	•	Optimized for mobile screens
+	•	Dark and light mode support
 
----
+⸻
 
-## 🛠️ Tech Stack
+📱 Installation
 
-*(Adjust based on your actual implementation)*
+Available now on the App Store
+Simply download OhmPro from the App Store and start calculating instantly.
 
-- **Frontend:** Swift / SwiftUI  
-- **Backend:** None (optional local storage with CoreData / UserDefaults)  
-- **Database:** CoreData / UserDefaults  
-- **APIs:** None  
+🔗 App Store link coming soon
 
----
+⸻
 
-## ⚙️ Installation
+💡 How to Use
+	1.	Open OhmPro on your device.
+	2.	Choose the desired calculator or formula section.
+	3.	Enter the known values.
+	4.	Get instant, accurate results with the correct units.
+	5.	Save or revisit calculations anytime.
 
-### Prerequisites
+⸻
 
-- macOS with Xcode 15 or later  
-- iOS 16 or later device or simulator  
+🧩 Future Updates
+	•	Graphical circuit simulator
+	•	Expanded formula and conversion library
+	•	Cloud sync for saved data
+	•	Advanced performance analytics
+	•	AI-powered circuit recommendations
 
-### Steps
+⸻
 
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/ohmpro.git
-```
+💬 Contact
 
-2. Open the project in Xcode:  
-```bash
-cd ohmpro
-open OhmPro.xcodeproj
-```
+Developer: Sam Sheppard
+Company: ShibzPix
+Email: shibzpix@gmail.com￼
 
-3. Build and run on your simulator or iOS device.
+⸻
 
----
+✨ Power up your electrical calculations with OhmPro – your ultimate electrician’s companion!
 
-## 📱 Usage
+⸻
 
-1. Launch OhmPro.  
-2. Select the desired calculator or formula reference.  
-3. Input the known values.  
-4. Instantly get results with correct units.  
-5. Save important calculations for future reference.
-
----
-
-## 🧩 Future Updates
-
-- Graphical circuit simulator  
-- Expanded formula library  
-- Cloud sync for saved calculations  
-- Advanced analytics for electrical calculations  
-- AI-powered suggestions for complex circuits  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-
-1. Fork the repository  
-2. Create a feature branch:  
-```bash
-git checkout -b feature/new-feature
-```  
-3. Commit your changes:  
-```bash
-git commit -m 'Add new feature'
-```  
-4. Push to the branch:  
-```bash
-git push origin feature/new-feature
-```  
-5. Open a Pull Request  
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-## 💬 Contact
-
-**Developer:** Sam Sheppard  
-**Company:** ShibzPix  
-**Email:** [shibzpix@gmail.com](mailto:shibzpix@gmail.com)  
-
----
-
-✨ Power up your electrical calculations with **OhmPro** – your ultimate electrician’s companion!
